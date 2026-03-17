@@ -73,8 +73,6 @@ frame:SetScript("OnEvent", function(self, event, ...)
                 return
             end
         end
-        
-        print("|cff57e3adDispelOnCursor:|r No tracked spell found for this class/spec")
     elseif event == "SPELL_UPDATE_COOLDOWN" then
         UpdateCooldown()
     end
