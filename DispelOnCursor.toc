@@ -1,4 +1,4 @@
-## Interface: 120007
+## Interface: 120100
 
 ## Title: Dispel on Cursor
 ## Notes: Places the duration of your spec's dispel on the cursor
